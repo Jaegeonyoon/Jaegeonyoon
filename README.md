@@ -1,16 +1,22 @@
-## Hi there 👋
+## Philosophy, AI, and open-source systems
 
-<!--
-**Jaegeonyoon/Jaegeonyoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I approach AI from a philosophical starting point.
 
-Here are some ideas to get you started:
+My interests are epistemic and existential: what AI can know, how it should explain itself, how humans can trust or question it, and how meaning, memory, and responsibility can be preserved in future systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+To turn these questions into working systems, I am returning to software development through open-source contribution, developer documentation, cloud-native tools, and AI-assisted engineering.
+
+### Open-source work
+
+I keep a public log of selected open-source contributions, issue investigations, and technical notes:
+
+- [Open Source Activity Log](https://github.com/Jaegeonyoon/open-source-activity-log)
+
+### Current focus
+
+- AI and knowledge systems
+- epistemic trust and AI reasoning
+- OpenTelemetry and observability
+- Kubernetes and Helm
+- developer documentation
+- cloud-native infrastructure
